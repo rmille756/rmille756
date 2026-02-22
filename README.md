@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![snake animation](https://github.com/rmille756/rmille756/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/rmille756/rmille756/blob/output/github-snake-dark.svg)
+
 <!--
 **rmille756/rmille756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
