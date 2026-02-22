@@ -1,5 +1,4 @@
 ## Hi there 👋
-![snake animation](https://github.com/rmille756/rmille756/blob/output/github-contribution-grid-snake2.svg)
 ![snake gif](https://github.com/rmille756/rmille756/blob/output/github-snake-dark.svg)
 
 <!--
